@@ -1,0 +1,7 @@
+dataset link:
+
+https://public.tableau.com/app/sample-data/sample_-_superstore.xls?ref=hackernoon.com
+
+dashboard link:
+
+https://public.tableau.com/app/profile/lai.ming.wei/viz/DataVisualization-Superstore_17283889641310/Dashboard
